@@ -1,0 +1,1 @@
+var tip="Helllo World!";console.log(tip);

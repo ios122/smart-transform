@@ -1,0 +1,7 @@
+{
+  "in":"./src",
+  "out":"./lib",
+  "exclude":["./src/hi-ignore.js"],
+  "minify":true,
+  "minifyExclude":["./src/hi-ts.ts"]
+}
